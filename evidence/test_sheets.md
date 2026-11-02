@@ -1,7 +1,7 @@
 # Test Sheets contain test cases, detailed bug reports and other evidence for all the projects
 =================================================================================================
 
-# Smart Game Test Sheet: https://docs.google.com/document/d/1_CX26f38hNSzmhVOufJSKTAoOwGwHjgq/edit?usp=sharing&ouid=113122948988381060979&rtpof=true&sd=true
+# Smart Gate Test Sheet: https://docs.google.com/document/d/1_CX26f38hNSzmhVOufJSKTAoOwGwHjgq/edit?usp=sharing&ouid=113122948988381060979&rtpof=true&sd=true
 
 # Button Bouncing Test Sheet: https://docs.google.com/document/d/1SgbLEC4ZawT4wMBXMJbguZXKBuwN2LHV/edit?usp=sharing&ouid=113122948988381060979&rtpof=true&sd=true
 

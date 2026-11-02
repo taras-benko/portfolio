@@ -1,7 +1,7 @@
 # Master Test Plan
 
 ## 1. Document Purpose
-Master Test Plan for the practical tasks from the Embedded QA course. Presents an overview of the testing approach of the chosen duing the course.
+Master Test Plan for the practical tasks from the Embedded QA course. Presents an overview of the testing approach chosen during the course.
 
 ## 2. System Overview
 - hardware: ESP32
